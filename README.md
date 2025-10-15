@@ -36,7 +36,7 @@ Future Plans:
 - Security / Auth
   - JWT (JSON Web Tokens)
   - OAuth2
-  
-### App Interface / Demo
+---
+#### App Interface / Demo
 - [Figma](https://www.figma.com/proto/vPHyKs5zoKH0oUOJU4g5m6/Untitled?node-id=8-6&p=f&t=5Kwt2wjg0Qjcz6rK-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A30&starting-point-node-id=8%3A24)
   
