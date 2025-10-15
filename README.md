@@ -1,5 +1,6 @@
 # AIELTS
-**AIELTS** is a mobile app
+[English](./README.md) | [Tiếng Việt](./README.vi.md)
+**AIELTS** is an AI-powered mobile app designed to help Vietnamese students prepare for the IELTS exam by providing real practice questions and AI-powered feedback and scoring based on official IELTS criteria.
 
 ## Overview
 
