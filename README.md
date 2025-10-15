@@ -1,9 +1,15 @@
 # AIELTS
-[English](./README.md) | [Tiếng Việt](./README.vi.md)
+[English](./README.md) | [Tiếng Việt](./README.vi.md).
 **AIELTS** is an AI-powered mobile app designed to help Vietnamese students prepare for the IELTS exam by providing real practice questions and AI-powered feedback and scoring based on official IELTS criteria.
 
 ## Overview
-
+AIELTS is designed to support Vietnamese learners preparing for the IELTS test. The app provides:
+- Daily speaking/writing practice questions sourced from real IELTS tests and student reviews.
+- AI-powered speaking test simulations, where an AI acts as the examiner.
+- Detailed feedback and scoring based on official IELTS Speaking criteria.
+Future Plans:
+- In-place/in-line translations.
+- Word- and sentence-level insights using external dictionaries (e.g., [Cambridge Dictionary](https://dictionary.cambridge.org/)).
 ### Technical Stacks
 - Backend building blocks
   - [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc)
