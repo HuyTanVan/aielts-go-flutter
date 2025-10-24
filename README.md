@@ -40,9 +40,9 @@ Future Plans:
 
 ## App Interface / Demo
 <p align="center">
-  <img src="docs/1.png" width="150">
-  <img src="docs/2.png" width="150">
-  <img src="docs/3.png" width="150">
+  <img src="docs/1.png" width="200">
+  <img src="docs/2.png" width="200">
+  <img src="docs/3.png" width="200">
 </p>
 
 
