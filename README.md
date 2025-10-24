@@ -47,20 +47,17 @@ Future Plans:
   <img src="docs/5.png" width="200">
 </p>
 <p align="center">
-  
   <img src="docs/6.png" width="200">
   <img src="docs/7.png" width="200">
   <img src="docs/8.png" width="200">
   <img src="docs/9.png" width="200">
 </p>
 <p align="center">
-  
   <img src="docs/10.png" width="200">
   <img src="docs/11.png" width="200">
   <img src="docs/12.png" width="200">
   <img src="docs/13.png" width="200">
   <img src="docs/14.png" width="200">
-  
 </p>
 
 - [Figma](https://www.figma.com/proto/vPHyKs5zoKH0oUOJU4g5m6/Untitled?node-id=8-6&p=f&t=5Kwt2wjg0Qjcz6rK-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A30&starting-point-node-id=8%3A24)
