@@ -44,15 +44,15 @@ Future Plans:
   <img src="docs/2.png" width="200">
   <img src="docs/3.png" width="200">
   <img src="docs/4.png" width="200">
-  <img src="docs/5.png" width="200">
 </p>
 <p align="center">
+  <img src="docs/5.png" width="200">
   <img src="docs/6.png" width="200">
   <img src="docs/7.png" width="200">
   <img src="docs/8.png" width="200">
-  <img src="docs/9.png" width="200">
 </p>
 <p align="center">
+  <img src="docs/9.png" width="200">
   <img src="docs/10.png" width="200">
   <img src="docs/11.png" width="200">
   <img src="docs/12.png" width="200">
