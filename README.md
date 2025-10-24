@@ -39,7 +39,7 @@ Future Plans:
   - OAuth2
 
 ## App Interface / Demo
-![home_screen](docs/homepage.png)
+![1](docs/1.png) ![2](docs/2.png) ![3](docs/3.png)
 
 - [Figma](https://www.figma.com/proto/vPHyKs5zoKH0oUOJU4g5m6/Untitled?node-id=8-6&p=f&t=5Kwt2wjg0Qjcz6rK-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A30&starting-point-node-id=8%3A24)
   
