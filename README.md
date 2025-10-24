@@ -4,14 +4,15 @@
 
 ## Overview
 AIELTS is designed to support Vietnamese learners preparing for the IELTS test. The app provides:
-- Daily speaking/writing practice questions sourced from real IELTS tests and student reviews.
-- AI-powered speaking test simulations, where an AI acts as the examiner.
+- Daily speaking and writing practice: real IELTS questions collected from students’ test experiences and reviews.
+- AI-powered real-test simulations: practice in a true exam environment with a virtual examiner.
 - Detailed feedback and scoring based on official IELTS Speaking criteria.
+- Smart vocabulary builder: search, save, and organize words easily.
+- Interactive review sessions: reinforce saved vocabulary through practice.
+- Quick dictionary lookup: meanings, examples, and usage directly in the app.
   
 Future Plans:
 - In-place/in-line translations.
-- Word- and sentence-level insights using external dictionaries (e.g., [Cambridge Dictionary](https://dictionary.cambridge.org/)).
-
 ## Technical Stacks
 - Backend building blocks
   - [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc)
